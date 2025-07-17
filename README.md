@@ -42,11 +42,7 @@
 
 ## 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankdhangar2408&show_icons=true&theme=radical" width="48%" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=mayankdhangar2408&theme=radical" width="48%" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mayankdhangar2408&show_icons=true&theme=radical&count_private=true" width="48%" /> <br> <img src="https://streak-stats.demolab.com?user=mayankdhangar2408&theme=radical" width="48%" /> </p>
 
 ---
 
