@@ -41,8 +41,7 @@
 ---
 
 ## 📈 GitHub Stats & Activity
-
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankdhangar2408&show_icons=true&theme=radical) <br> <img src="https://streak-stats.demolab.com?user=mayankdhangar2408&theme=radical" width="48%" /> </p>
+<img src="https://streak-stats.demolab.com?user=mayankdhangar2408&theme=radical" width="48%" /> </p>
 
 ---
 
